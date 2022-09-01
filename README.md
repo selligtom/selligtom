@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"> Welcome to my Github profile page 👋 </h1>
+
+### Selligtom, French Developer
+
+- 🌱 I’m currently learning React & Spring Boot
 
 <!--
 **selligtom/selligtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Github statistics
+<img src="https://visitor-badge.glitch.me/badge?page_id=selligtom.visitor-badge"></img>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true"></img>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selligtom"></img>
+
+
+
+#### My latest project
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=selligtom&repo=PhoneChecker"></img>
+
+
