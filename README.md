@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome to my Github profile page 👋 </h1>
 
-### Selligtom, French Developer
+### Software Engineer
 
-- 🌱 I’m currently learning React & Spring Boot
+- ⚡ Currently working on [Linkmi](https://linksmi.com/register)
 
 <!--
 **selligtom/selligtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
