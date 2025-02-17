@@ -4,6 +4,8 @@
 
 - ⚡ Currently working on [Linkmi](https://linksmi.com/register)
 
+- ✈ Working also on [Fliro](https://flyfliro.com/register)
+
 <!--
 **selligtom/selligtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
 
 ### My Github statistics
 <img src="https://visitor-badge.glitch.me/badge?page_id=selligtom.visitor-badge"></img>
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true"></img>
 
