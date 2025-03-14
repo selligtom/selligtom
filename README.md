@@ -6,6 +6,8 @@
 
 - ✈ Working also on [Fliro](https://flyfliro.com/register)
 
+- ✈ [NEW Project] [Aero-Quiz](https://aero-quiz.com/register)
+
 <!--
 **selligtom/selligtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
