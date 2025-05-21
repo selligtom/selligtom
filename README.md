@@ -8,31 +8,13 @@
 
 - ✈ [NEW Project] [Aero-Quiz](https://aero-quiz.com/register)
 
-<!--
-**selligtom/selligtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈ [NEW Project] [WingSpotting](https://spotting.flyfliro.com/register)
 
 ### My Github statistics
 <img src="https://visitor-badge.glitch.me/badge?page_id=selligtom.visitor-badge"></img>
 
 <img src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selligtom"></img>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true&locale=en" alt="selligtom" /></p>
 
-
-
-#### My latest project
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=selligtom&repo=PhoneChecker"></img>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selligtom" alt="selligtom" /></p>
