@@ -11,8 +11,6 @@
 - ✈ [NEW Project] [WingSpotting](https://spotting.flyfliro.com/register)
 
 ### My Github statistics
-<img src="https://visitor-badge.glitch.me/badge?page_id=selligtom.visitor-badge"></img>
-
 <img src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true"></img>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selligtom&show_icons=true&locale=en" alt="selligtom" /></p>
