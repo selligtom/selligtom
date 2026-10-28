@@ -4,6 +4,8 @@
 
 - ⚡ Currently working on [Linkmi](https://linksmi.com/register)
 
+- ✈️ Currently working on [Flyorian](https://flyorian.com)
+  
 - ✈ Working also on [Fliro](https://flyfliro.com/register)
 
 - ✈ [NEW Project] [Aero-Quiz](https://aero-quiz.com/register)
