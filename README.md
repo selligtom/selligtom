@@ -2,7 +2,9 @@
 
 ### Software Engineer
 
-- ⚡ Currently working on [Linkmi](https://linksmi.com/register)
+- ⚡ Currently working on [Nilibio](https://nilibio.com/register)
+
+- 👀 Currently working on [T'es devenu quoi ?](https://tesdevenuquoi.fr)
 
 - ✈️ Currently working on [Flyorian](https://flyorian.com)
   
